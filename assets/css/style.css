@@ -1,0 +1,34 @@
+html, body{
+	font-size:16px;
+	color: #dfdfdf;
+	background-color: #063647; 
+}
+
+a {
+  color: #00d1b2;
+}
+section{
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+
+.avatar{
+	height:200px;
+	border-radius: 40%;
+}
+
+.navi{
+	background-color: #063647; 
+}
+
+.intro {
+	text-align: center;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.title {
+	color: #fff;
+	text-align: left;
+	margin-bottom: 2rem;
+}
